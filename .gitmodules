@@ -1,0 +1,3 @@
+[submodule "ProyectoSimPy"]
+	path = ProyectoSimPy
+	url = https://github.com/DDelgadoT/ProyectoSimulacion.git
